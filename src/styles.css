@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.add-btn {
+  margin: 0px 0px 0px 5px;
+}
+.todo-name {
+  margin: 0px 5px;
+}
+
+.todo-item {
+  text-align: left;
+  margin: auto;
+}
+
+.todo-completed {
+  text-decoration: line-through;
+}
+.delete-btn {
+  margin: 5px 0px;
+}
